@@ -25,7 +25,7 @@ SECRET_KEY = '_y-ezs2ztx35z8nl9f-o$4w*wp9_l^gd1vadwv-@@9s)wl9ah_'
 DEBUG = True
 
 # ✅ Allow server IP and local addresses
-ALLOWED_HOSTS = ['54.252.159.238', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['3.106.122.228', 'localhost', '127.0.0.1']
 
 # Application definition
 
